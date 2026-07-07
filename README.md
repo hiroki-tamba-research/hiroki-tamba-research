@@ -12,6 +12,16 @@ Independent researcher — AI evaluation infrastructure, narrative intelligence,
 
 [ORCID: 0009-0004-7635-0741](https://orcid.org/0009-0004-7635-0741) · [OSF](https://osf.io/rzwtf/)
 
+### Licensing & Attribution
+
+All original methodology, evaluation frameworks, empirical datasets, and preprints I publish across platforms (arXiv, Zenodo, figshare, OSF, GitHub, LinkedIn) are released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) unless otherwise noted, in accordance with academic norms of attribution, non-commercial exchange, and preservation of authorial voice.
+
+- **Attribution required**: cite the original work.
+- **Non-commercial use**: integration into for-profit products, services, or internal production evaluation pipelines requires prior written consent.
+- **No derivatives**: modification, adaptation, or re-implementation of the methodology in derivative frameworks requires prior written consent.
+
+For commercial licensing, collaboration, or methodology consulting: hiroki.tamba@gmail.com
+
 ### arXiv endorsement
 
 Seeking endorsement for a cs.AI submission on LLM-as-judge grader non-determinism. Code: **V6FVHF**
