@@ -2,6 +2,8 @@
 
 Independent researcher — AI evaluation infrastructure, narrative intelligence, LLM grader reliability.
 
+Member of the Coalition for Independent Technology Research (CITR); contributor to the UK AISI inspect_ai evaluation framework.
+
 ### Recent contributions
 
 - **inspect_ai** [PR #4170](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4170) (merged) — grader reproducibility docs for UK AISI evaluation framework
